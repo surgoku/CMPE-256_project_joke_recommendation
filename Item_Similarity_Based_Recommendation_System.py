@@ -6,7 +6,7 @@ Details of various models can be found here (We should add them to the report):
 2. https://turi.com/products/create/docs/generated/graphlab.recommender.item_similarity_recommender.ItemSimilarityRecommender.html
 3. https://turi.com/products/create/docs/generated/graphlab.recommender.factorization_recommender.create.html
 
-We train all these three models to obtain the best model. All of these models take user-item rating matrix
+Train all these three models to obtain the best model. All of these models take user-item rating matrix
 
 Steps:
 1. Split the data in train and validation using Graphlab library
