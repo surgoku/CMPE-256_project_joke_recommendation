@@ -1,0 +1,151 @@
+joke_id	Jokes	joke_category	joke_category_reduced
+1	Alzheimers Wellthank God	doctor	doctor
+2	Thats	relationship	relationship
+3	Willie Nelson Concert	others	others
+4		man	man
+5	Slash	technology	technology
+6	Bill Arkansas Bill Hillary Bill Hillary Hillary No Bill	politics	politics
+7		others	others
+8	Santa	others	others
+9	Hes Okay	others	others
+10	Does	others	others
+11		others	others
+12		others	others
+13	Japanese	politics	politics
+14	Huh Dammit Daddy TWIST	relationship	relationship
+15		others	others
+16		food	food
+17		man	man
+18	Western Union Bow Western Union Bow	Animals	animal
+19		others	others
+20	MacIntosh Mac	others	others
+21		others	others
+22		others	others
+23	Australian	others	others
+24		others	others
+25		others	others
+26		relationship	relationship
+27	Clinton Arkansas Air Force Arkansas Chelsea Hillary Sir	politics	politics
+28	Microsoft Ill	technology	technology
+29	Scottish Aye No	others	others
+30		others	others
+31	Clinton Oval Office Bill Mr.	politics	politics
+32	St. Peter Methodist St. Peter Religion Baptist Religion Jewish Catholics	man	man
+33	American	man	man
+34	Johnny John Johny My Teacher Rectum	school	school
+35	Amazon NOT	others	others
+36	Im Polish Polish Okay customerIll	others	others
+37		doctor	doctor
+38		food	food
+39		man	man
+40		others	others
+41	Darwin Oh Darwin	others	others
+42	Afterward	man	man
+43	Arnold Swartzeneger Sylvester Stallone Stallone Mozart Swartzeneger Bach	others	others
+44	Bartender	Animals	animal
+45		school	school
+46	Ill	relationship	relationship
+47		technology	technology
+48	Science Asks How Liberal Arts	technology	technology
+49		technology	technology
+50	Father Im Well Never Father Im Jewish	others	others
+51	Clinton	Animals	animal
+52	Monica Lewinsky Bob Dole Bill	others	others
+53	William Dad Mom Susan Williams Susan William Dianne Dianne William William Dad Dad	relationship	relationship
+54	Pope Hes Holy Scriptures Angels Pope Pope	others	others
+55	Egypt Amal Spain Juan Amal Juan	others	others
+56	Cindy Crawford Cindy Hi Bob Hello Bob	others	others
+57		others	others
+58		Animals, technology	animal
+59	Chukcha Russian Eskimo Russian Parliament Building Chukcha Parliament Guard	politics	politics
+60	Buddhist	animals	animal
+61	Hillary Ill Visibly	politics,animals	politics
+62		technology	technology
+63		technology	technology
+64	International Dyslexic Pride	others	others
+65	Funny	food	food
+66		technology	technology
+67	Weve	relationship	relationship
+68	Excuse Information	man, technology	man
+69	Honey Weve	relationship	relationship
+70	Employer	others	others
+71	Sacramento Users Format C Return	technology	technology
+72	Dean Anybody Anybody How	school	school
+73	George Washington Richard Nixon Bill Clinton Washington Nixon Clinton	politics	politics
+74		man	man
+75	Sasquatch	man,animals	animal
+76	Ill	others	others
+77		politics	politics
+78		politics	politics
+79	IRS	others	others
+80	Hillary Bill Clinton Bill Hillary Pope	politics	politics
+81	Asian New York CityBank American Currency Asian Fluctuations Fluctuations	others	others
+82		technology	technology
+83	Cmon	man, relationship	relationship
+84	Mechanical Engineers Civil Engineers	technology	technology
+85		politics, technology	politics
+86		food, technology	food
+87	Shit	doctor	doctor
+88	Czechoslovakian CRKBNWXSKZY Czech	doctor	doctor
+89	US Canadian North South US Navy USS United States Atlantic Fleet FIVE DEGREES	technology	technology
+90	NONE	technology	technology
+91	Panda Asiatic Ailurus Northern India	animal, food	animal
+92		school	school
+93	Stanford And Well Engineer Wow Are	technology	technology
+94		technology	technology
+95		others	others
+96		food	food
+97	Yeah	school	school
+98	Africa Asia America Europe Australia	others	others
+99		others	others
+100	United States	politic,other	politics
+101	Novocaine	others	others
+102		school,others	school
+103	Nurse Doctor Doctor Doctor Well	doctor	doctor
+104		school, technology	school
+105	Alright Okay	others	others
+106	St. Peter Satan Satan Weve Youve Satan Ill	technology	technology
+107	Japanese British Americans French British Americans Chinese British Americans Italians British Americans English	food	food
+108		relationship	relationship
+109		others	others
+110		school	school
+111	Peace Sir Im	others	others
+112	Mom Im	others	others
+113		others	others
+114	Sherlock Holmes Holmes Watson Watson Watson Saturn Leo Lord	others	others
+115	Madam Nelson Ricky Willie Nat King Cole Road Again Ladies United States	technology	technology
+116	Frankly	others	others
+117	No CEO CEO Good	others	others
+118	IDIOT	others	others
+119	Three Little Pigs Pardon Holy Shit	school	school
+120	Judy Tony Judy Judys No	technology	technology
+121	Catholic Church Priest	others	others
+122	Scotland	technology	technology
+123	Chuck Norris	others	others
+124	Person	others	others
+125	American Spain	food	food
+126	Briton Russian Adam Garden Eden Brit British Frenchman French Russian Russian	others	others
+127	Well Good	politics	politics
+128	American Canadian American Well American Canadian Scot St. Peter American Scot	politics	politics
+129		relationship	relationship
+130		man, doctor	man
+131		doctor	doctor
+132	Mickey Mouse Minnie Mouse Mickey Minnie	relationship	relationship
+133		others	others
+134	Ive	doctor	doctor
+135		man	man
+136		man	man
+137	Deep	animal	animal
+138	WASHINGTON George W. Bush Ari Fleischer	politics	politics
+139	Bush Period	others	others
+140	Chuck Norris	others	others
+141	Jack McDonalds	food	food
+142	Father Father Father Drink Father Second Father Drink Father Third Man	food, man	religion
+143	Dude	others	others
+144		relationship	relationship
+145	Tornado	others	others
+146	America Lunch Japan	others	others
+147		others	others
+148	Pearly Gates St. Peter St. Peter Titanic St. Peter St. Peter Heaven	school	school
+149	Daddy Do Once	relationship	relationship
+150	David Letterman Carter Japan Carter Tokyo Japanese Carter Carter Carter Carter Carter Japanese Carter Please	others	others
